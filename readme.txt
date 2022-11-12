@@ -13,4 +13,5 @@ cara install 'npm install nanoid@3.x.x'
 library nodejs yang berfungsi untuk membuatkan id unix secara random
 
 run mongodb in cmd : mongod --storageEngine=mmapv1 --dbpath SNJB
-1311094a
+
+acces token github : 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
